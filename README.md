@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2>Tech_Skill</h2>
+  <h2>Technical Skills</h2>
 </div>
 
 <!--
